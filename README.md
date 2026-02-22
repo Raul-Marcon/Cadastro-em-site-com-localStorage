@@ -1,2 +1,2 @@
 # Cadastro-em-site-com-localStorage
-este é um projeto que desenvolvi com o objetivo de deixar as informações do usuário salvas no próprio armazenamento local do navegador.
+Como eu ainda estou desenvolvendo as minhas habilidades no backend, resolvi fazer um sistema de cadastro simples que armazena as informações do usuário no armazenamento local do próprio navegdor.
